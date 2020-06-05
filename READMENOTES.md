@@ -2,6 +2,13 @@
 will use for adding flex styles to UI
 
 https://www.digitalocean.com/community/tutorials/how-to-create-wrapper-components-in-react-with-props
+https://www.digitalocean.com/community/tutorials/how-to-create-custom-components-in-react
+https://www.digitalocean.com/community/tutorials/how-to-customize-react-components-with-props
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-javascript
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+https://www.digitalocean.com/community/tutorials/understanding-destructuring-rest-parameters-and-spread-syntax-in-javascript#spread
+https://www.digitalocean.com/community/tutorials/understanding-destructuring-rest-parameters-and-spread-syntax-in-javascript
+
 
 ### basic concept of wrapper components
 Wrapper components are components that surround unknown components and provide a default structure to display the child components. This pattern is useful for creating user interface (UI) elements that are used repeatedly throughout a design, like modals, template pages, and information tiles.
